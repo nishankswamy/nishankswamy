@@ -1,4 +1,4 @@
-# Hi, I'm Sharath 👋
+# Hi, I'm Nishank 👋
 
 **Security engineering & data analytics.** I build things I can explain in depth,
 then measure them until they tell me something I didn't expect.
@@ -40,4 +40,4 @@ full index, findings, and case studies.
 
 ## Reach me
 
-📧 sharath.surya176@gmail.com
+📧 Nishankde@gmail.com
