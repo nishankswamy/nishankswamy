@@ -1,7 +1,9 @@
-# Hi, I'm Nishank 👋
+# Hi, I'm Nishank Daulath 👋
 
 **Security engineering & data analytics.** I build things I can explain in depth,
 then measure them until they tell me something I didn't expect.
+
+🌐 **Portfolio: [nishankswamy.github.io](https://nishankswamy.github.io)** · finishing an MSc in Cyber Security in Berlin.
 
 I recently ran a **[30-day build challenge](https://github.com/nishankswamy/30-days)**:
 ten projects across security and data, each shipped with a benchmark, tests, CI,
@@ -40,4 +42,4 @@ full index, findings, and case studies.
 
 ## Reach me
 
-📧 Nishankde@gmail.com
+📧 Nishankde@gmail.com · 🌐 [Portfolio](https://nishankswamy.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/nishank-swamy)
